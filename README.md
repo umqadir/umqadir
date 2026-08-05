@@ -1,5 +1,3 @@
-Data scientist at the New York City Council's Oversight & Investigations Division.
-
 Selected work:
 
 - [council-discourse](https://github.com/umqadir/council-discourse) - every NYC Council meeting transcribed with named speakers and chaptered, after Vikram Oberoi's citymeetings.nyc. Live at [council-discourse.pages.dev](https://council-discourse.pages.dev).
